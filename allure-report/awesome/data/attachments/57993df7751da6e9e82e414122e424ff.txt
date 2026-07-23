@@ -1,0 +1,2 @@
+Valid url -appointment page is visible after login with valid credentials
+100% appointmen page checkbox is visible after login with valid credentials

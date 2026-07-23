@@ -1,0 +1,2 @@
+User is navigated to Make Appointment page
+Demo account title is visible on the page
